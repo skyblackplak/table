@@ -1,0 +1,42 @@
+td, th {
+	border: black 2px solid;
+	padding: 10px;
+}
+
+table {
+	border-collapse: collapse;
+	text-align: center;
+	width: 100%;
+	margin-bottom: 30px;
+}
+
+th {
+	background: gray;
+}
+
+td {
+	background: lightgrey;
+}
+
+.numbers {
+	background: gray;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+}
+
+body {
+	background: url(fon.jpg);
+	font-family: Tahoma;
+	text-shadow: 0 0 5px gray;
+}
+
+caption {
+	font-size: 30px;
+}
+
+
+
+
